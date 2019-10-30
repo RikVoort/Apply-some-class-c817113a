@@ -1,0 +1,29 @@
+
+th {
+	border: 1.1px solid #AAA;
+	padding: 40px 50px 40px;
+background-color: lightgray
+
+}
+td{
+	border: 1.1px solid #AAA;
+	padding: 40px 50px 40px;
+	background-color: gray
+
+    
+}
+a {color: black}
+
+
+.oranje {
+ background-color: orange;}
+ 
+ .greeen {color: green}
+
+ .purple {
+ 	background-color: purple;
+ }
+ .lightBlue {
+ 	background-color: blue
+ }
+ .yellow {background-color: yellow}
